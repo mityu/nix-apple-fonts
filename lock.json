@@ -1,0 +1,22 @@
+{
+  "version": "2026-07-16",
+  "srcs": [
+    {
+      "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+      "hash": "sha256-loqzuLH5LC2K9h6waA9cIiTE541ZuYa/AEUCp/wBKRg="
+    },
+    {
+      "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg",
+      "hash": "sha256-bUoLeOOqzQb5E/ZCzq0cfbSvNO1IhW1xcaLgtV2aeUU="
+    },
+    {
+      "url": "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg",
+      "hash": "sha256-wdDjROut1m62LwP4I3hMzknxeH9WVj+wmPygH8VUE1w="
+    },
+    {
+      "pname": "NewYork",
+      "url": "https://devimages-cdn.apple.com/design/resources/download/NY.dmg",
+      "hash": "sha256-HC7ttFJswPMm+Lfql49aQzdWR2osjFYHJTdgjtuI+PQ="
+    }
+  ]
+}
